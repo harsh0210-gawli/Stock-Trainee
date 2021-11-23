@@ -1,0 +1,83 @@
+body {
+  background-color: white;
+  color: white;
+  font-family: Arial, Helvetica, sans-serif;
+  font-size: 16px;
+  line-height: 1.6em;
+  margin: 0;
+}
+.container {
+  background-image: url("./components/stock.jpg");
+  color: #333;
+  background-position: centre;
+  height: 800px;
+  width: 100000000000000px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.header {
+  background-color: darkcyan;
+  color: white;
+  padding: 1px;
+  padding-left: 100px;
+  margin-block: 0px;
+}
+.navbar {
+  background-color: #333;
+  color: #fff;
+  padding-block: 1px;
+}
+.navbar ul {
+  padding: 20px;
+  list-style: none;
+}
+.navbar li {
+  display: inline;
+  padding: 30px;
+}
+.navbar a {
+  color: #fff;
+  text-decoration: none;
+  font-size: 18px;
+  padding-right: 15px;
+}
+.showcase {
+  background-position: centre right;
+  height: 800px;
+  margin-bottom: 30px;
+  text-align: center;
+}
+.showcase h1 {
+  color: #fff;
+  font-size: 50px;
+  line-height: 1.6em;
+  padding-top: 30px;
+  padding-bottom: 30px;
+}
+.main {
+  color:#333;
+  padding-left: 150px;
+  padding-top: 20px;
+  padding-right: 700px;
+}
+
+.sidebar {
+  float: right;
+  width: 30%;
+  background: #333;
+  color: #fff;
+  padding: 0 30px;
+  box-sizing: border-box;
+  margin-right: 140px;
+  margin-left: 140px;
+}
+
+.footer {
+  background: #333;
+  color: #fff;
+  text-align: center;
+  padding: 10px;
+  margin-top: 150px;
+}
+
+
